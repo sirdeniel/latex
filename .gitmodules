@@ -1,0 +1,3 @@
+[submodule "uspatent"]
+	path = uspatent
+	url = https://github.com/borisreitman/uspatent.git
